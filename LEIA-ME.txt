@@ -1,0 +1,9 @@
+HYPE GASTROBAR — SITE INICIAL
+
+Para visualizar: abra index.html no navegador. O site funciona sem servidor e adapta-se ao celular.
+
+Para publicar: envie a pasta inteira (index.html e assets) para uma hospedagem estática, como Netlify ou Vercel. Em Netlify Drop, arraste a pasta do site descompactada.
+
+O site inclui cardápio com preços fornecidos, seleção de dias, marmitex P, carrinho, formulário de entrega/retirada e envio de pedido pelo WhatsApp (11) 92513-5882. Os preços e itens ficam no array `dishes` do arquivo index.html. No menu de bebidas foi incluída consulta ao WhatsApp, pois preços e estoque da adega ainda não foram fornecidos.
+
+Atenção: o pedido não é cobrado nem confirmado automaticamente; o WhatsApp abre a conversa para confirmação. Fotos de comida foram recortadas do material enviado pelo cliente e são ilustrativas. Confirme disponibilidade e valores antes de publicar.
